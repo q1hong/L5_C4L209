@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ejercicio1.dir/src/main.c.o CMakeFiles/ejercicio1.dir/src/json.c.o -o ejercicio1  -lcJSON 
